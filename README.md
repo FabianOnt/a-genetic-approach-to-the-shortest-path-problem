@@ -1,5 +1,12 @@
 # A Genetic Approach to the Shortest Path Problem: CDMX metro network
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)
+
+
 I present an implementation of a **Genetic Algorithm (GA)** to solve the shortest path problem within the Mexico City Metro network. The project models the transit system as a graph and uses evolutionary heuristics to find optimal routes between stations.
 
 <img src="assets/plano-red-metro-cdmx.jpg" width="400" />
